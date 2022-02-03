@@ -11,7 +11,7 @@ App first loads the data from API, The main use of this sample app is people can
 To Run this App:
 
 1. Go to NewsAPI and generate an API key 
-2. Put the API key at the bottom of the gradle.properties newsAPIKey = "YOUR_API_KEY"
+2. Put the API key newsAPIKey = "YOUR_API_KEY"
 3. Run the app
 
 Implemented the following:
