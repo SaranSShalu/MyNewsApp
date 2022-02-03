@@ -19,5 +19,9 @@ Implemented the following:
 1. Live data from NewsAPI.org
 2. Shared element transition Image from list to image in details page.
 3. Material Design Card component
+
+screen shots
+
 ![WhatsApp Image 2022-02-03 at 11 21 00 PM (1)](https://user-images.githubusercontent.com/51772407/152400784-6d6da0ed-4f9f-4b13-9b7d-eb96b76ce923.jpeg)
+
 ![WhatsApp Image 2022-02-03 at 11 21 00 PM](https://user-images.githubusercontent.com/51772407/152400800-37aee324-2d91-4a35-8d33-3af1c80a775b.jpeg)
